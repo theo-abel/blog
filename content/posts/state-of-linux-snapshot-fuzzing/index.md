@@ -5,5 +5,6 @@ externalUrl: "https://fuzzinglabs.com/state-of-linux-snapshot-fuzzing"
 summary: |
   This article provides an overview of the current state of snapshot fuzzing in Linux, including its challenges and future directions.
 showReadingTime: true
-categories: ["Fuzzing", "Snapshot Fuzzing"]
+categories: ["Fuzzing"]
+tags: ["Linux", "Snapshot Fuzzing", "State of the Art"]
 ---

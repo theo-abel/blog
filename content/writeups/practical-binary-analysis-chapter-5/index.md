@@ -2,6 +2,7 @@
 title: "Practical Binary Analysis - Chapitre 5"
 date: 2024-07-27
 categories: ["Writeup"]
+tags: ["pwn", "binary-exploitation", "ctf"]
 series: ["practical-binary-analysis"]
 series_order: 1
 ---
