@@ -41,4 +41,4 @@ build:
 
 [doc("Runs the blog in development mode.")]
 serve:
-    {{ hugo }} server --buildDrafts --renderToMemory
+    {{ hugo }} server --buildDrafts --renderToMemory --disableFastRender
