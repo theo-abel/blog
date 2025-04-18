@@ -2,7 +2,7 @@
 title: "pwn.college - Program misuse"
 date: 2024-04-09
 categories: ["Writeup"]
-tags: ["pwn.college"]
+tags: ["pwn.college", "ctf"]
 series: ["pwn.college"]
 series_order: 1
 ---
